@@ -17,7 +17,7 @@
 // ========================================
 const FORM_CONFIG = {
   // Worker URL - Update this to your deployed worker
-  workerUrl: "https://spam-detection-engine.hello-be0.workers.dev/",
+  workerUrl: "https://trv-site-form.sarie-chen.workers.dev/",
 
   // Form Selectors & Attributes
   formSelector: "form[cf-form]",
